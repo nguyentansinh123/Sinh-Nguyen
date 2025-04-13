@@ -1,4 +1,4 @@
- 💫 About Me:
+ 💫 About Me:<br>
 🔭 I’m currently working on ur mom<br>👯 I’m looking to collaborate on ur sis<br>🤝 I’m looking for help with ur dad<br>🌱 I’m currently learning ur grandma<br>💬 Ask me about ur family<br>⚡ Fun fact
 
 
