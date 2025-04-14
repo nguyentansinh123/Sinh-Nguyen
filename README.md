@@ -1,5 +1,5 @@
  💫 About Me:<br>
-🔭 I’m currently working on ur mom<br>👯 I’m looking to collaborate on ur sis<br>🤝 I’m looking for help with ur dad<br>🌱 I’m currently learning ur grandma<br>💬 Ask me about ur family<br>⚡ Fun fact
+🔭 I’m currently working on being a better person<br>👯 I’m looking to collaborate on anything that brings knowledge<br>🤝 I’m looking for help with my stubbornness<br>🌱 I’m currently learning Spring Boot and MicroService<br>💬 Ask me about anything<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
